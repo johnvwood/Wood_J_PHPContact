@@ -1,0 +1,31 @@
+.hidden{
+    display: none;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(206, 223, 238);
+}
+
+main{
+    margin: auto;
+    height: 100vh;
+}
+
+.submit-wrapper{
+    cursor: pointer;
+}
+
+label{
+    display: none;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    max-width: 500px;
+}
