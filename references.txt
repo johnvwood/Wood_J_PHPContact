@@ -1,9 +1,10 @@
-Reference
-1. For dropdown field:
-https://code.tutsplus.com/tutorials/create-a-contact-form-in-php--cms-32314
+First Name and Last Name required
+- https://www.youtube.com/watch?v=VgGsdqh5iic
 
-2. For Google reCAPTCHA:
-https://www.youtube.com/watch?v=g-gVX7GwD40
+Topic Menu
+- https://www.youtube.com/watch?v=L1UFTbfKeF4
+- https://html.form.guide/php-form/php-form-select/
 
-3.  Make “firstname”, “lastname” and “email” fields to be required
-https://www.w3schools.com/php/php_form_required.asp
+Google reCAPTCHA 
+- https://www.youtube.com/watch?v=xyOu0b6R3m0
+- https://developers.google.com/recaptcha/old/docs/php
